@@ -23,8 +23,8 @@ React, JavaScript (con React Compiler), Vite y ESLint.
 Requisito: tener instalado [Node.js](https://nodejs.org/).
 
 ```bash
-git clone <URL-DEL-REPOSITORIO>
-cd Movies
+git clone https://github.com/ianguatame/BOXPIRATE-MOVIES.git
+cd BOXPIRATE-MOVIES
 npm install
 npm run dev
 ```
