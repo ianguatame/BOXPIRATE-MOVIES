@@ -23,6 +23,8 @@ React, JavaScript (con React Compiler), Vite y ESLint.
 Requisito: tener instalado [Node.js](https://nodejs.org/).
 
 ```bash
+# crear tu proyecto con vite, react, javascript + react compiler , EsLint 
+cd {nombre de tu proyecto/carpeta}
 git clone https://github.com/ianguatame/BOXPIRATE-MOVIES.git
 cd BOXPIRATE-MOVIES
 npm install
@@ -33,7 +35,7 @@ Luego abre `http://localhost:5173/` en el navegador.
 
 ## Estructura del proyecto
 
-
+```bash
 src/
 ├── components/
 │   ├── FavoriteButton.jsx
@@ -56,4 +58,4 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
-
+```
